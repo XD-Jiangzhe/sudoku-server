@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++11   CMakeFiles/SudokuServer.dir/sudoku_onethread.cc.o CMakeFiles/SudokuServer.dir/sudoku.cc.o  -o ../bin/SudokuServer -lmuduo_base_cpp11 -lmuduo_net -lpthread 
